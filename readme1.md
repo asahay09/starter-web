@@ -6,3 +6,6 @@ A lot of lectures are already submitted in git and git hub traing
 
 ## GIT and Github traning
 This is the famous and one of tyhe best trainig course of devops 
+
+##Git comparsion 
+adding GIt comparioson lecture
