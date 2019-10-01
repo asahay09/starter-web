@@ -23,3 +23,5 @@ Hi, I am modifing the file before the rebase.
 DevOps Enginner level3.
 IT firm IT org
 
+Hi, going to insert conflicts and my feature branch
+
