@@ -18,4 +18,5 @@ comparsion with repo
 fork the repoe and raise pull request for review
 
 ## GiT rebase
-this is lecture for Git rebase
+this is lecture for Git rebase.
+we have done so much of work together.
