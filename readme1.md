@@ -13,3 +13,6 @@ adding GIt comparioson lecture
 
 ## Git Hub content
 comparsion with repo
+
+##Contribution 
+fork the repoe and raise pull request for review
